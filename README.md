@@ -22,9 +22,9 @@ Once you have all the prerequisites ready, enter your project folder or create a
 
 When project directory is setup, you can download our script:
 
-`curl https://raw.githubusercontent.com/Smartproxy/Smartproxy/master/beautifulsoup/beautifulsoup.py > beautifulsoup.py`
+`curl https://raw.githubusercontent.com/Smartproxy/BeautifulSoup/master/beautifulsoup.py > beautifulsoup.py`
 
-<img src="https://i.imgur.com/KrvorTW.png">
+<img src="https://content.screencast.com/users/JohanSP/folders/Jing/media/87b3ab19-cdb2-4e2b-ae8a-9431f538ee9a/smartproxy-beautifulsoup-configuration.png">
 
 You should now see your project folder populated with *beautifulsoup.py* file.
 
