@@ -3,6 +3,10 @@
   </a>
 </p>
 
+<p align="center">
+    <a href="https://github.com/Smartproxy/Smartproxy"> :house: Main Repository :house: </a>
+</p>
+
 ### Disclaimer
 
 The following example provides you with a basic request using a proxy to a specific website, if you want to learn more about Beautiful Soup, make sure to check their documentation [here](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#quick-start).
@@ -58,15 +62,7 @@ If everything was done correctly, you should be seeing the output as proxy IP:
 
 <img src="https://i.imgur.com/yglY5EA.png">
 
-## How to get started with Smartproxy?
-<br><img src="https://smartproxy.com/wp-content/uploads/2019/02/order-smartproxy.png">
-<br> 1. To utilize residential proxies you will require smartproxy account, register here -> https://dashboard.smartproxy.com
-<br> 2. You will need an active subscription too. If you're interested in testing it out first - our plans Starter and above have 3 day money back policy -> https://smartproxy.com/pricing
-<br> 3. Once you purchase it you will get access to whole pool, regardless of plan!
-<br><br><center>Accepted payment methods:
-<br><img src="https://smartproxy.com/wp-content/uploads/2018/09/payment-methods-smartproxy-residential-rotating-proxies.svg" alt="" width="250" height="50"></center>
-
-## Contacts
+## Need help?
 Email - sales@smartproxy.com
 <br><a href="https://smartproxy.com">Live chat 24/7</a>
 <br><a href="https://join.skype.com/invite/bZDHw4NZg2G9">Skype</a>
