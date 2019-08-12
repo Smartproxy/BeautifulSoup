@@ -31,7 +31,7 @@ When project directory is setup, you can download our script:
 
 `curl https://raw.githubusercontent.com/Smartproxy/BeautifulSoup/master/beautifulsoup.py > beautifulsoup.py`
 
-<img src="https://content.screencast.com/users/JohanSP/folders/Jing/media/87b3ab19-cdb2-4e2b-ae8a-9431f538ee9a/smartproxy-beautifulsoup-configuration.png">
+<img src="https://content.screencast.com/users/JohanSP/folders/Jing/media/87b3ab19-cdb2-4e2b-ae8a-9431f538ee9a/smartproxy-beautifulsoup-configuration.png" alt="curl smartproxy beautifulsoup http proxy configuration">
 
 You should now see your project folder populated with *beautifulsoup.py* file.
 
@@ -48,7 +48,7 @@ Username and password:
 auth = requests.auth.HTTPProxyAuth('username','password') # Your username and password for proxy authentication
 ```
 
-<img src="https://i.imgur.com/wbTPbx5.png">
+<img src="https://i.imgur.com/wbTPbx5.png" alt="smartproxy beautifulsoup http proxy configuration with username password authentication">
 
 ### Usage
 
