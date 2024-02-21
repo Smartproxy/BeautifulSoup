@@ -39,7 +39,7 @@ You should now see your project folder populated with *beautifulsoup.py* file.
 
 To start using our example script, all you need to do is to configure the lines below.
 
-Endpoint:
+Proxy username, password and endpoint:
 ```
 proxies = {'http': 'http://username:password@gate.smartproxy.com:7000', # Your username, password for proxy authentication, and desired endpoint within punctuation marks ('')
           'https': 'http://username:password@gate.smartproxy.com:7000'} 
