@@ -31,7 +31,7 @@ When project directory is setup, you can download our script:
 
 `curl https://raw.githubusercontent.com/Smartproxy/BeautifulSoup/master/beautifulsoup.py > beautifulsoup.py`
 
-<img src="https://content.screencast.com/users/JohanSP/folders/Jing/media/87b3ab19-cdb2-4e2b-ae8a-9431f538ee9a/smartproxy-beautifulsoup-configuration.png" alt="curl smartproxy beautifulsoup http proxy configuration">
+<img src="https://content.screencast.com/users/JohanSP/folders/Jing/media/87b3ab19-cdb2-4e2b-ae8a-9431f538ee9a/smartproxy-beautifulsoup-configuration.png" alt="curl smartproxy beautifulsoup http/https proxy configuration">
 
 You should now see your project folder populated with *beautifulsoup.py* file.
 
@@ -41,14 +41,11 @@ To start using our example script, all you need to do is to configure the lines 
 
 Endpoint:
 ```
-proxies = {'https': 'https://gate.smartproxy.com:7000'} # Your desired endpoint within punctuation marks ('')
-```
-Username and password:
-```
-auth = requests.auth.HTTPProxyAuth('username','password') # Your username and password for proxy authentication
+proxies = {'http': 'http://username:password@gate.smartproxy.com:7000', # Your username, password for proxy authentication, and desired endpoint within punctuation marks ('')
+          'https': 'http://username:password@gate.smartproxy.com:7000'} 
 ```
 
-<img src="https://i.imgur.com/wbTPbx5.png" alt="smartproxy beautifulsoup http proxy configuration with username password authentication">
+<img src="https://i.imgur.com/xUB7Q6s.png" alt="smartproxy beautifulsoup http/https proxy configuration with username password authentication">
 
 ### Usage
 
@@ -60,7 +57,7 @@ python beautifulsoup.py
 
 If everything was done correctly, you should be seeing the output as proxy IP:
 
-<img src="https://i.imgur.com/yglY5EA.png">
+<img src="https://i.imgur.com/7vNWqRi.png">
 
 ## Need help?
 Email - sales@smartproxy.com
